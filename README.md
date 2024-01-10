@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian
-- 👀 I’m interested in C++, Python
+- 👀 I’m interested in C++, JavaSript, React and Python
 - 🌱 I’m currently learning Python and Web Development
 - 💞️ I’m looking to collaborate on Backend projects and web development
 - 📫 How to reach me adrianog.sw<at>gmail.com
